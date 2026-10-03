@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/3_3yaucgdsi8f.css","style"]
+:HL["/_next/static/chunks/0bq2h05y1tr4x.css","style"]
 :HL["/_next/static/media/0b1dc8ddaa74ba49-s.p.0e__wj8580tc5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/1a099d89ee94ee96-s.p.35a5cae5tspm2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/1bffadaabf893a1e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -10,4 +10,4 @@
 :HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/2n6uw7f-5nu3_.css","style"]
 :HL["/_t/elan/home/images/7lxEukuDKxnuJzFW9XaO2z38w.png","image",{"imageSrcSet":"/_t/elan/home/images/7lxEukuDKxnuJzFW9XaO2z38w-512.png 512w, /_t/elan/home/images/7lxEukuDKxnuJzFW9XaO2z38w-1024.png 1024w, /_t/elan/home/images/7lxEukuDKxnuJzFW9XaO2z38w.png 1672w","imageSizes":"(min-width: 1200px) 100vw, (max-width: 809.98px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"client","param":{"type":"d","key":"limonlu-bahce-ag-z-ve-dis-sagl-g-poliklinigi","siblings":["preview","stand"]},"prefetchHints":4192,"slots":{"children":{"name":"lang","param":{"type":"d","key":"tr","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"path","param":{"type":"oc","key":"","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"bgGqZ-nA13BHGCD6mKiM_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"client","param":{"type":"d","key":"limonlu-bahce-ag-z-ve-dis-sagl-g-poliklinigi","siblings":["preview","stand"]},"prefetchHints":4192,"slots":{"children":{"name":"lang","param":{"type":"d","key":"tr","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"path","param":{"type":"oc","key":"","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"IfTXI_qCGuOr-iR0Mharl"}
