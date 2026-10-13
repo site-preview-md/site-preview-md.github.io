@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/393hb2r0lclj6.css","style"]
+:HL["/_next/static/chunks/0ult_iu011uf_.css","style"]
 :HL["/_next/static/media/0b1dc8ddaa74ba49-s.p.0e__wj8580tc5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/1a099d89ee94ee96-s.p.35a5cae5tspm2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/1bffadaabf893a1e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -10,4 +10,4 @@
 :HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/359uc-f-h2lri.css","style"]
 :HL["/sm-ege-dental-ag-z-ve-dis-sagl-g-poliklinigi/_photos/maps-03.jpg","image",{"imageSrcSet":"","imageSizes":"(min-width: 1200px) 100vw, (max-width: 809.98px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"client","param":{"type":"d","key":"sm-ege-dental-ag-z-ve-dis-sagl-g-poliklinigi","siblings":["preview","stand"]},"prefetchHints":4192,"slots":{"children":{"name":"lang","param":{"type":"d","key":"tr","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"path","param":{"type":"oc","key":"","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"XaoHrECKfQcrWKfSKitaV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"client","param":{"type":"d","key":"sm-ege-dental-ag-z-ve-dis-sagl-g-poliklinigi","siblings":["preview","stand"]},"prefetchHints":4192,"slots":{"children":{"name":"lang","param":{"type":"d","key":"tr","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"path","param":{"type":"oc","key":"","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"GtYkYdCo17eQU0XWvLphc"}
